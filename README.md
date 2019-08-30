@@ -4,7 +4,7 @@
 [![CodeCov](https://codecov.io/gh/prologic/msgbus/branch/master/graph/badge.svg)](https://codecov.io/gh/prologic/msgbus)
 [![Go Report Card](https://goreportcard.com/badge/prologic/msgbus)](https://goreportcard.com/report/prologic/msgbus)
 [![GoDoc](https://godoc.org/github.com/prologic/msgbus?status.svg)](https://godoc.org/github.com/prologic/msgbus) 
-[![GitHub license](https://img.shields.io/github/license/prologic/msgbus.svg)](https://github.com/prologic/msgbux)
+[![GitHub license](https://img.shields.io/github/license/prologic/msgbus.svg)](https://github.com/prologic/msgbus)
 [![Sourcegraph](https://sourcegraph.com/github.com/prologic/msgbus/-/badge.svg)](https://sourcegraph.com/github.com/prologic/msgbus?badge)
 
 A real-time message bus server and library written in Go.
